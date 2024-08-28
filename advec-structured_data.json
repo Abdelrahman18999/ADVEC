@@ -1,0 +1,161 @@
+[
+    {
+        "category": "Income",
+        "type": "parent",
+        "children": [
+            {
+                "category": "Sales",
+                "type": "child",
+                "Total": 764749.24
+            },
+            {
+                "category": "Total Income",
+                "type": "child",
+                "Total": 764749.24
+            }
+        ]
+    },
+    {
+        "category": "Cost of Sales",
+        "type": "parent",
+        "children": [
+            {
+                "category": "Materials - COS",
+                "type": "child",
+                "Total": 1402788.19
+            },
+            {
+                "category": "salaries",
+                "type": "child",
+                "Total": 332595
+            },
+            {
+                "category": "Total Cost of Sales",
+                "type": "child",
+                "Total": 1735383.19
+            }
+        ]
+    },
+    {
+        "category": "Gross Profit",
+        "type": "parent",
+        "children": []
+    },
+    {
+        "category": "Expenses",
+        "type": "parent",
+        "children": [
+            {
+                "category": "Bank charges",
+                "type": "child",
+                "Total": 5161.41
+            },
+            {
+                "category": "bonus",
+                "type": "child",
+                "Total": 39000
+            },
+            {
+                "category": "Income tax expense",
+                "type": "child",
+                "Total": 0
+            },
+            {
+                "category": "Insurance - General",
+                "type": "child",
+                "Total": 25735.81
+            },
+            {
+                "category": "Legal and professional fees",
+                "type": "child",
+                "Total": 0
+            },
+            {
+                "category": "Meals and entertainment",
+                "type": "child",
+                "Total": 600
+            },
+            {
+                "category": "Office expenses",
+                "type": "child",
+                "Total": 110
+            },
+            {
+                "category": "payroll tax",
+                "type": "child",
+                "Total": 45367
+            },
+            {
+                "category": "Rent 1",
+                "type": "child",
+                "Total": 0
+            },
+            {
+                "category": "Rent 2",
+                "type": "child",
+                "Total": 15900
+            },
+            {
+                "category": "Repairs and Maintenance",
+                "type": "child",
+                "Total": 12662.11
+            },
+            {
+                "category": "software",
+                "type": "child",
+                "Total": 11759.57
+            },
+            {
+                "category": "Stationery and printing",
+                "type": "child",
+                "Total": 980
+            },
+            {
+                "category": "Transportation",
+                "type": "child",
+                "Total": 6079.99
+            },
+            {
+                "category": "Travel expenses - general and admin expenses",
+                "type": "child",
+                "Total": 0
+            },
+            {
+                "category": "مصروف المساهمة التكافلية",
+                "type": "child",
+                "Total": 1911.8
+            },
+            {
+                "category": "Total Expenses",
+                "type": "child",
+                "Total": 165267.69
+            },
+            {
+                "category": "Other Expenses",
+                "type": "subparent",
+                "children": [
+                    {
+                        "category": "Unrealised Gain or Loss",
+                        "type": "child",
+                        "Total": 0
+                    },
+                    {
+                        "category": "Depreciation",
+                        "type": "child",
+                        "Total": 48742.74
+                    },
+                    {
+                        "category": "Total Other Expenses",
+                        "type": "child",
+                        "Total": 48742.74
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Net Earnings",
+        "type": "parent",
+        "children": []
+    }
+]
